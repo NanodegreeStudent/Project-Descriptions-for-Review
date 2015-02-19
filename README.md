@@ -1,2 +1,3 @@
 # Project-Descriptions-for-Review
-Project descriptions from code review
+
+This is the repository for saving all the project descriptions for the projects that will be reviewed. 
