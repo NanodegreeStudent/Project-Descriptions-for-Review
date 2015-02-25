@@ -8,7 +8,8 @@ Your project reviewer will review and provide feedback on two aspects of your su
 ### 1 - Code Review
 Your reviewer will look at the code you've written and provide feedback on:
 
-* **Use of Syntax**: All of your HTML and CSS should be properly formatted and should pass HTML and CSS validation tests. 
+* **Use of Syntax**: All of your HTML and CSS should be properly formatted and should pass <a href="http://validator.w3.org/#validate_by_input" target="_blank">HTML validation</a> and  <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">CSS validation</a> tests. 
+
 * **Use of Logical HTML Structure**: Content that is logically related should be grouped together within a container element (like a `<div>` or `<span>`). 
 * **Use of HTML Classes and CSS Styling**: There shouldn't be any unnecessary repetition in your CSS code. Similar HTML elements should have the same class names.
 
