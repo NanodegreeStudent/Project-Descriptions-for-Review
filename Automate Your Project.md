@@ -33,5 +33,5 @@ In addition to looking at the code you write, your project reviewer will also re
 
 The rubric that will be used is included below:
 
-![](http://i.imgur.com/8YoKASB.png)
-![](http://i.imgur.com/C8JvdIG.png)
+![](http://i.imgur.com/cUp5mDP.png)
+![](http://i.imgur.com/zrbAe13.png)
