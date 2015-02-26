@@ -1,3 +1,8 @@
+# ![Andy](http://i.imgur.com/fdGeWES.png) What you'll Make
+
+You will make a computer program using the Python programming language. This program will automatically generates the HTML for your web page. This will allow you to change the HTML structure of any repeated element (for example, a concept or a description) in one place and then automatically regenerate your page.
+
+
 # ![Andy](http://i.imgur.com/fdGeWES.png) Project Specification
 
 By the time you've gone through the second course, you'll have added a substantial number of new topics to your notes **and** written some code in a new language (Python).
