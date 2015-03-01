@@ -1,3 +1,3 @@
 # Project-Descriptions-for-Review
 
-This is the repository for saving all the project descriptions for the projects that will be reviewed. 
+This repository contains project descriptions for Udacity's Code Review Program. 
