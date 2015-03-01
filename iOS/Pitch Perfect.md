@@ -22,8 +22,4 @@ Benefit from the power of Delegates by using them in code
 
 Once you have a completed app, you need to make changes to the code using <a href="https://docs.google.com/document/d/1uotwFB5A3qmQL4-NTNuI4UT_UqqPrsZ17wZMY6XhlB0/pub" target="_blank">feedback from from a professional iOS Developer.</a>
 
-##Evaluation
-Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
-
-![Pitch Perfect Rubric](https://drive.google.com/drive/#folders/0B_Lg4Sk_lW6Dfk9rc3cxR1JZWUV6SlVBYVczTy1pTWZwcVZzX1c0RVVYLXBRSWtjSDhmQk0)
 
