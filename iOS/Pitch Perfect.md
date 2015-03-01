@@ -25,5 +25,5 @@ Once you have a completed app, you need to make changes to the code using <a hre
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
 
-![Pitch Perfect Rubric](https://drive.google.com/open?id=0B_Lg4Sk_lW6DTHFNSm9qd2lIR28)
+![Pitch Perfect Rubric](https://drive.google.com/drive/#folders/0B_Lg4Sk_lW6Dfk9rc3cxR1JZWUV6SlVBYVczTy1pTWZwcVZzX1c0RVVYLXBRSWtjSDhmQk0)
 
