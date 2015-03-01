@@ -21,3 +21,9 @@ Benefit from the power of Delegates by using them in code
 <a href="https://www.udacity.com/course/ud585-nd" target="_blank">Intro to iOS App Development with Swift</a> walks you step-by-step through creating the Pitch Perfect App. If you want to complete the project without taking the course, you can download a detailed specification <a href="https://drive.google.com/open?id=0B_wLvkeCYfm7OXIwN0RRYjM1Qjg&authuser=0" target="_blank">here</a>.
 
 Once you have a completed app, you need to make changes to the code using <a href="https://docs.google.com/document/d/1uotwFB5A3qmQL4-NTNuI4UT_UqqPrsZ17wZMY6XhlB0/pub" target="_blank">feedback from from a professional iOS Developer.</a>
+
+##Evaluation
+Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
+
+![Pitch Perfect Rubric](//lh3.ggpht.com/1I-N8UsszL-r6tPw_W-k9NxjRKD2cMxIcPnMrQqH5WG-YhpWX2ryYYoYxiihkADGPNgYdxBjcSHk24u4tSVU=s0#w=1137&h=605)
+
