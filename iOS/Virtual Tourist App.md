@@ -23,4 +23,4 @@ For detailed information on how your project will be assessed, continue to the n
 ##Evaluation
 Your project will be evaluated by a Udacity Code Reviewer according to the rubric below. All criteria must "meet specifications" in order to pass.
 
-![Virtual Tourist Rubric](//lh5.ggpht.com/-9O9wSt1NI0Ia5Ui7JSolvBXgO-44p6e301w8-DJr9Qp5VaerhSre_I6ymhVsfDOdV_FU7onTiYPkpVhfw=s0#w=1130&h=1452)
+![Virtual Tourist Rubric](https://lh5.ggpht.com/-9O9wSt1NI0Ia5Ui7JSolvBXgO-44p6e301w8-DJr9Qp5VaerhSre_I6ymhVsfDOdV_FU7onTiYPkpVhfw=s0#w=1130&h=1452)
